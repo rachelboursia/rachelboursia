@@ -1,4 +1,6 @@
 # Hello World 👋🏾
+![](https://visitor-badge.laobi.icu/badge?page_id=rachelboursia.rachelboursia) [![Github](https://img.shields.io/github/followers/rachelboursia?label=Followers&logo=Github)](https://github.com/rachelboursia)
+
 
 I'm Rachel Boursia, a passionate and dedicated Software Development Engineer with a love for all things tech. Welcome to my GitHub profile!
 

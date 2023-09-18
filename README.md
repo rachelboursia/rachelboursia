@@ -11,6 +11,13 @@ I'm Rachel Boursia, a passionate and dedicated Software Development Engineer wit
 - 💡 Committed to continuous learning and staying updated with the latest trends and advancements in the tech industry.
 - 🌈 Strong advocate for diversity and inclusion, striving to create a more equitable and inclusive tech community.
 
+## Languages and Tools
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 ## What I'm Working On
 
 🔭 Currently, I'm working on a variety of exciting projects that challenge me and push the boundaries of my skills. From building dynamic web applications to tackling complex algorithms, I enjoy the thrill of solving problems and creating innovative solutions.
@@ -36,4 +43,3 @@ I'm Rachel Boursia, a passionate and dedicated Software Development Engineer wit
 🌐 Check out my [portfolio](https://rachelboursia.github.io/portfolio-two/index.html) to see some of my past projects and get a glimpse of what I'm capable of.
 
 Thank you for visiting my GitHub profile. Let's collaborate, learn, and build amazing things together!
-

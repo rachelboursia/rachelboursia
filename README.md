@@ -2,14 +2,14 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=rachelboursia.rachelboursia) [![Github](https://img.shields.io/github/followers/rachelboursia?label=Followers&logo=Github)](https://github.com/rachelboursia)
 
 
-I'm Rachel Boursia, a passionate and dedicated Software Development Engineer with a love for all things tech. Welcome to my GitHub profile!
+I'm Rachel Boursia, a passionate and dedicated Software Development Engineer who loves all things tech. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🚀 Software Development Engineer Apprentice at Expedia Group
-- 🌟 Multiverse Apprentice | Tech Enthusiast | Diversity Advocate
+- 🚀 Associate Software Development Engineer at Expedia Group
+- 🌟 Multiverse Alumni | Year Up Alumni |Tech Enthusiast | Diversity Advocate
 - 💻 Specializing in web development, with expertise in HTML, CSS, JavaScript, and more.
-- 🎓 Certified in multiple domains, with a wide range of certifications covering various technologies and programming languages.
+- 🎓 Certified in multiple domains, with various certifications covering various technologies and programming languages.
 - 💡 Committed to continuous learning and staying updated with the latest trends and advancements in the tech industry.
 - 🌈 Strong advocate for diversity and inclusion, striving to create a more equitable and inclusive tech community.
 
@@ -40,7 +40,7 @@ I'm Rachel Boursia, a passionate and dedicated Software Development Engineer wit
 
 ## Collaboration and Open Source
 
-👯 I'm a strong believer in the power of collaboration and open source. I actively seek opportunities to contribute to meaningful projects and collaborate with fellow developers. Let's connect and explore ways we can work together to make a positive impact in the tech community.
+👯 I strongly believe in the power of collaboration and open source. I actively seek opportunities to contribute to meaningful projects and collaborate with fellow developers. Let's connect and explore ways we can work together to make a positive impact in the tech community.
 
 🤔 If you have any exciting projects or ideas that you'd like to collaborate on, feel free to reach out. I'm open to collaborations and always eager to bring new ideas to life.
 

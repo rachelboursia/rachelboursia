@@ -54,6 +54,6 @@ I'm Rachel Boursia, a passionate and dedicated Software Development Engineer who
 
 ## Explore My Work
 
-🌐 Check out my [portfolio](https://rachelboursia.github.io/portfolio-two/index.html) to see some of my past projects and get a glimpse of what I'm capable of.
+🌐 Check out my projects below to see some of my past projects and get a glimpse of what I'm capable of.
 
 Thank you for visiting my GitHub profile. Let's collaborate, learn, and build amazing things together!

@@ -6,12 +6,12 @@ I'm Rachel Boursia, a passionate and dedicated Software Development Engineer who
 
 ## About Me
 
-- 🚀 Associate Software Development Engineer at Expedia Group
-- 🌟 Multiverse Alumni | Year Up Alumni | Tech Enthusiast | Diversity Advocate
-- 💻 Specializing in web development, with expertise in HTML, CSS, JavaScript, and more.
-- 🎓 Certified in multiple domains, with various certifications covering various technologies and programming languages.
-- 💡 Committed to continuous learning and staying updated with the latest trends and advancements in the tech industry.
-- 🌈 Strong advocate for diversity and inclusion, striving to create a more equitable and inclusive tech community.
+- 🧠 Former **Software Development Engineer Apprentice at Expedia Group** and **Project Manager Intern at Microsoft**
+- 📚 Currently pursuing my **AAS in Web Development** at **Highline College**
+- 🛠️ Skilled in **Scala**, **JavaScript**, **HTML/CSS**, **SQL**, **GitHub**, **JIRA**, **Datadog**, and more
+- 🏆 Alumna of **Multiverse**, **Year Up**, and **Generation USA**
+- 🌍 Advocate for diversity and inclusion in tech; proud to be a Black mixed-race woman working to make the industry more equitable
+- 🎮 Lifelong gamer who finds creative inspiration and problem-solving skills through play
 
 ## Languages and Tools
 <p align="center">

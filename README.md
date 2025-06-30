@@ -7,7 +7,7 @@ I'm Rachel Boursia, a passionate and dedicated Software Development Engineer who
 ## About Me
 
 - 🧠 Former **Software Development Engineer Apprentice at Expedia Group** and **Project Manager Intern at Microsoft**
-- 📚 Currently pursuing my **AAS in Web Development** at **Highline College**
+- 📚 Currently pursuing my **AAS in Web Development with AI** at **Highline College**
 - 🛠️ Skilled in **Scala**, **JavaScript**, **HTML/CSS**, **SQL**, **GitHub**, **JIRA**, **Datadog**, and more
 - 🏆 Alumna of **Multiverse**, **Year Up**, and **Generation USA**
 - 🌍 Advocate for diversity and inclusion in tech; proud to be a Black mixed-race woman working to make the industry more equitable
